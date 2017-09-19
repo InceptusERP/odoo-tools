@@ -1,2 +1,2 @@
 # odoo-tools
-Inceptus Odoo tools addons by 
+Inceptus Odoo tools addons

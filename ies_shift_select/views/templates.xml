@@ -1,0 +1,11 @@
+<odoo>
+    <data>
+        <template id="ies_web_backend_asset" inherit_id="web.assets_backend"
+            name="ies web backend asset">
+            <xpath expr="//script[last()]" position="after">
+                <script type="text/javascript"
+                    src="/ies_shift_select/static/src/js/shift_select.js"></script>
+            </xpath>
+        </template>
+    </data>
+</odoo>
